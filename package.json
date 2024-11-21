@@ -1,0 +1,19 @@
+{
+  "name": "express-session",
+  "version": "1.0.0",
+  "description": "Demo project used to teach the fundamentals of sessions and cookies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davadams97/express-session.git"
+  },
+  "author": "David Alexander Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davadams97/express-session/issues"
+  },
+  "homepage": "https://github.com/davadams97/express-session#readme"
+}
