@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davadams97/express-session/issues"
   },
-  "homepage": "https://github.com/davadams97/express-session#readme"
+  "homepage": "https://github.com/davadams97/express-session#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
